@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://isshasfrauddetectionapp.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 
 ---
 
@@ -306,13 +306,8 @@ Contributions are welcome! Please follow these steps:
 | 💼 **LinkedIn** | [linkedin.com/in/issha-sethi-744734170](https://www.linkedin.com/in/issha-sethi-744734170/) |
 | 🐙 **GitHub** | [@Issha111](https://github.com/Issha111) |
 | 🌐 **Portfolio** | [datascienceportfol.io/issha](https://www.datascienceportfol.io/) |
-| 📧 **Email** | isshasethi@example.com |
+| 📧 **Email** | issha.career@gmail.com |
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
