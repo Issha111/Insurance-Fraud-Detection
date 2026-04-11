@@ -4,30 +4,57 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
-venv/
-.venv/
-pip-log.txt
-pip-delete-this-directory.txt
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
-# Data files (optional - if data is large)
-# data/*.csv
-
-# Models (optional - if models are large)
-# models/*.pkl
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # OS
 .DS_Store
 Thumbs.db
 
+# Data (if too large)
+# data/raw/*
+# !data/raw/.gitkeep
+
+# Models (if too large - uncomment if needed)
+# models/*.pkl
+# models/*.sav
+
+# Logs
+*.log
+
 # Streamlit
 .streamlit/
+
+# Temporary files
+*.tmp
+*.bak
